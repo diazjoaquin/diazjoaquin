@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [New Portfolio]([https://github.com/diazjoaquin/Chat-App-TS](https://github.com/diazjoaquin/New-portfolio))
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-jd1.web.app/](https://my-portfolio-jd1.web.app/)
+- 👨‍💻 All of my projects are available at [here](https://my-portfolio-jd1.web.app/)
 
 - 📫 How to reach me **diaz.joaquin.e@gmail.com**
 
