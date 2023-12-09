@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joaquín Díaz</h1>
 <h3 align="center">A passionate Web Developer</h3>
 
-- 🔭 I’m currently working on [Next Pokedex]((https://github.com/diazjoaquin/Next-Pokedex))
+- 🔭 I’m currently working on [Next Pokedex](https://github.com/diazjoaquin/Next-Pokedex)
 
 - 👨‍💻 All of my projects are available at [here](https://diazjoaquin-dev.vercel.app/home)
 
