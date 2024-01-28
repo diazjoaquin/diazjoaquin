@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Next Pokedex](https://github.com/diazjoaquin/Next-Pokedex)
 
-- 👨‍💻 All of my projects are available at [here](https://diazjoaquin-dev.vercel.app/home)
+- 👨‍💻 All of my projects are available at [here](https://diazjoaquin-dev.vercel.app)
 
 - 📫 How to reach me **diaz.joaquin.e@gmail.com**
 
