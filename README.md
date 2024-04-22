@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joaquín Díaz</h1>
 <h3 align="center">A passionate Web & Mobile Developer</h3>
 
-- 🔭 I’m currently working on [Kiura Team](https://github.com/Kiura-Team)
+- 🔭 I’m currently working at [Kiura Team](https://github.com/Kiura-Team)
 
 - 👨‍💻 All of my projects are available at [here](https://diazjoaquin-dev.vercel.app)
 
