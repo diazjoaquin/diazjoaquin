@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joaquín Díaz</h1>
-<h3 align="center">A passionate Web & Mobile Developer</h3>
+<h3 align="center">A passionate Software Developer</h3>
 
 - 🔭 I’m currently working at [Kiura Team](https://github.com/Kiura-Team)
 
