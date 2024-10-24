@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [here](https://diazjoaquin-dev.vercel.app)
 
-- 📫 How to reach me **diaz.joaquin.dev@gmail.com**
+- 📫 How to reach me **diazjoaquin.dev@gmail.com**
 
 
 <h3>Languajes and Tools:</h3>
