@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joaquín Díaz</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
-- 🔭 I’m currently working at [BIGGER](https://github.com/bigger-tech)
+- 🔭 I’m currently working at [Zentricx](https://github.com/Zentricx)
 
 - 👨‍💻 All of my projects are available at [here](https://diazjoaquin-dev.vercel.app)
 
